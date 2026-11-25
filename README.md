@@ -33,3 +33,9 @@
 
 - Stata集成的两种路径：在DeepSeek Harness中跑Stata有两种方法，一是接入MCP（模型上下文协议），二是安装专门的Stata插件。自研的插件通过封装MCP和扩展功能，实现了无需复杂配置即可运行Stata代码的能力。
 - 插件的灵活切换：不同插件适用于不同的工作场景，例如有的插件专门用于DID估计量判定，有的用于Stata代码执行。用户需根据具体任务选择合适的插件，并掌握插件的启用和切换操作。
+
+
+
+## 🌈❤️最新Stata课程--2017-2026年，数量经济学Stata课程已开设10年，10年Stata经典课程报名中！
+
+![](https://stata101.oss-cn-chengdu.aliyuncs.com/fig-metrics/Stata%E8%AF%BE%E7%A8%8B%E5%AE%A3%E4%BC%A0%E5%9B%BE%E7%89%87.png)
